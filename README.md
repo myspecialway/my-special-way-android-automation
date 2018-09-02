@@ -1,0 +1,1 @@
+# my-special-way-android-automation
